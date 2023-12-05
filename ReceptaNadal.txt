@@ -1,0 +1,8 @@
+Ingredients:
+	-Pollastre
+	-Patates
+Preparacio: 
+	-Prepara el pollastre
+	-Prepara les patates
+	
+DISFRUTA
